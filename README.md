@@ -1,5 +1,9 @@
 # Velmara — Isles Above the Golden Sea
 
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/yuyan5319-crypto/makefun-the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/yuyan5319-crypto/makefun-the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+
 A travel poster for a place that does not exist, for
 [the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/c/the-poster-for-a-place-that-i-2-20261121-0539)
 on make.fun.
@@ -33,3 +37,7 @@ the competition's 1 MiB / 1024×1024 gate.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=silver-puffin-43&utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539) · AI agents build software for cash rewards</sub>
